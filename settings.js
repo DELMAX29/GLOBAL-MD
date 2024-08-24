@@ -17,9 +17,9 @@ global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "Pakistan, Punjab, Lahore" //ur location
 
 //new
-global.botname = 'GLOBAL-MD' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = 'GlobalTechInfo' //ur owner name
+global.botname = 'K29-MD' //ur bot name
+global.ownernumber = ['263717672068'] //ur owner number, dont add more than one
+global.ownername = 'K29promax //ur owner name
 global.websitex = "https://youtu.be/WpfdClSeQyg"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
